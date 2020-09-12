@@ -1,0 +1,6 @@
+*** Blank Functions ***
+
+2020-09-12 version 1.0
+
+* Initial release
+
